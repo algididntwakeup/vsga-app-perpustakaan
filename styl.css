@@ -1,0 +1,38 @@
+/* h2, body dan sejenisnya tu namanya tag html */
+h2 {
+  color: salmon;
+  text-align: center;
+  background-color: lightblue;
+}
+
+body {
+  color: maroon;
+}
+
+form {
+  background-color: seagreen;
+}
+
+a {
+  text-decoration: none;
+  color: darkred;
+}
+
+/* kalo ini namanya id selector */
+#abuabu {
+  color: #666;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+/* class selector kalo yg ini */
+.labalabi {
+  color: cadetblue;
+  font-size: 12px;
+  font-style: italic;
+}
+.labalabu {
+  color: rosybrown;
+  font-size: 16px;
+  font-style: italic;
+}
